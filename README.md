@@ -1,4 +1,4 @@
-# 🌿 Poisonous Plant Detection using Deep Learning
+#  Poisonous Plant Detection using Deep Learning
 
 ## Project Overview
 
