@@ -195,6 +195,4 @@ Major: Artificial Intelligence
 
 ---
 
-## License
 
-This project was developed for educational purposes as part of a Deep Learning and Computer Vision study.
